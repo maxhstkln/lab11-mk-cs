@@ -60,9 +60,9 @@ if __name__ == "__main__":
 
 
 
-# Git link
+# https://github.com/maxhstkln/lab11-mk-cs.git
 # Maximilian Klingenberg
-# Partner 2
+# Cesar Suarez
 
 
 
