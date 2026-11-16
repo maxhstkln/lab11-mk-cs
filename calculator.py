@@ -5,9 +5,9 @@ calculator.py
 One function per operation, in order.
 """
 
-# git link
+# git link: https://github.com/maxhstkln/lab11-mk-cs.git
 # Maximilian Klingenberg
-# Partner 2
+# Cesar Suarez
 
 
 import math
